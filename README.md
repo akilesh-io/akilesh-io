@@ -4,7 +4,8 @@
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=s7jdoe0lin941mqddh4q3kz69&count=4)
 
 ##### But I am 😄
-![GitHub Snake dark](https://github.com/Akilesh2112/Akilesh2112/blob/output/github-contribution-grid-snake.svg)
+![night green version](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--
 **Akilesh2112/Akilesh2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
