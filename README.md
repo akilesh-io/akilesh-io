@@ -1,10 +1,10 @@
-### Hi there 👋
+### It's Not Who I Am Underneath But What I Do That Defines Me 🦇
 
-##### Look's like I am not  working 🙃
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=s7jdoe0lin941mqddh4q3kz69&count=4)
+| The Dark Knight                                                                                    | The Darkest Knight                                |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| <img width=700/>                                                                                   |      <img width=500/>                             |
+| ![a](https://spotify-recently-played-readme.vercel.app/api?user=s7jdoe0lin941mqddh4q3kz69&count=4) | ![b](./profile-3d-contrib/profile-night-view.svg) |
 
-##### But I am 😄
-![night green version](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
 **Akilesh2112/Akilesh2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
