@@ -1,8 +1,21 @@
 
 
-### Ola Amigo 🎶
-
- ![a](https://spotify-recently-played-readme.vercel.app/api?user=s7jdoe0lin941mqddh4q3kz69&count=4) 
+### ✨ வருக வருக ✨
+```
+     _.-- ,.--.
+   .'   .'    /
+   | O       |'..--------._
+  /      \._/              '.
+ /  .-.-                     \
+(  /    \                     \
+ \\      '.                  | #
+  \\       \   -.           /
+   :\       |    )._____.'   \
+    "       |   /  \  |  \    )
+            |   |./'  :__ \.-'
+            '--'
+```
+ <!-- ![a](Thttps://spotify-recently-played-readme.vercel.app/api?user=s7jdoe0lin941mqddh4q3kz69&count=4) -->
  
 <!--
 **Akilesh2112/Akilesh2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
